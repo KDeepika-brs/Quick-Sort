@@ -6,4 +6,4 @@
 
 ##### The quickSort function is an implementation of the Quick Sort algorithm. It recursively divides the input array into smaller subarrays by choosing a pivot element and then sorting the elements on its left and right sides using the pivot function. The process continues until all subarrays have only one element or are empty. The final sorted array is returned.
 
-#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Hamming-algo/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Quick-Sort/).
